@@ -1,8 +1,8 @@
 @font-face {
   font-family: 'BBCReithSans';
   src:
-    url('https://dperika.github.io/bbcfont/BBCReithSans_A_Rg.ttf') format('truetype');
-    url('https://dperika.github.io/bbcfont/BBCReithSans_W_Rg.woff') format('woff');
+    url('https://dperika.github.io/bbcfont/BBCReithSans_A_Rg.ttf') format('truetype'),
+    url('https://dperika.github.io/bbcfont/BBCReithSans_W_Rg.woff') format('woff'),
     url('https://dperika.github.io/bbcfont/BBCReithSans_W_Rg.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
